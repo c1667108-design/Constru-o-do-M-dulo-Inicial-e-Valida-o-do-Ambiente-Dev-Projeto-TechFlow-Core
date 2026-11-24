@@ -1,1 +1,0 @@
-print("Hello World! Ambiente de desenvolvimento Python configurado com sucesso.")
